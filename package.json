@@ -1,0 +1,26 @@
+{
+  "name": "node_express_app",
+  "version": "1.0.0",
+  "description": "Started with Express.js & Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kapranov/NodeExpressApp.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Oleg G.Kapranov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kapranov/NodeExpressApp/issues"
+  },
+  "homepage": "https://github.com/Kapranov/NodeExpressApp#readme",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
