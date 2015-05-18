@@ -1,4 +1,5 @@
-Getting Started with Express.js
+Started with Express.js
+-----------------------
 
 [Express is a minimal and flexible Framework](http://expressjs.com/)
 
@@ -103,4 +104,4 @@ The app.js also defines where the routes are, sets the view engine, sets the
 logger and sets the error codes. Try creating a new route and see what happens.
 
 
-15 May 2015 Oleg G.Kapranov
+#### 18 May 2015 Oleg G.Kapranov
